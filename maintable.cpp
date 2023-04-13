@@ -26,4 +26,4 @@ MainTable::~MainTable()
 
 
 
-//Fahrat lox i pidor
+//SAnyalox i pidor
